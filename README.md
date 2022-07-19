@@ -14,7 +14,7 @@ truffle migrate
 
 Configure your browser wallet with ganache available accounts and ganache local blockchain
 ```
-RPC: http://127.0.0.1:8545 
+http://127.0.0.1:8545 
 Network ID: 1337
 ```
 
