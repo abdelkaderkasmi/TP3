@@ -1,7 +1,6 @@
 
 
-
-
+## LOCAL
 
 ```
 npm run ganache
@@ -23,3 +22,6 @@ In the client folder, start the frontend
 npm start
 ```
  ## DEMO
+Partie 1   https://loom.com/share/04b0ee1a4bb7478a9ca06e4bd1da1029
+
+Partie 2 : https://loom.com/share/1b2d4f177284493d9c5827106545ca0d
